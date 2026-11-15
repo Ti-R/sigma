@@ -4029,3 +4029,13 @@ https://strontic.github.io/xcyclopedia/library/aclui.dll-F883E9CA757B622B032FDCA
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/security/threat-protection/auditing/event-4706
 https://devco.re/blog/2024/08/23/streaming-vulnerabilities-from-windows-kernel-proxying-to-kernel-part1-en/
 https://web.archive.org/web/20220519091349/https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://web.archive.org/web/20210725081645/https://github.com/cube0x0/CVE-2021-36934
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#atypical-travel
+https://web.archive.org/web/20231210115125/http://www.xuetr.com/
+https://hijacklibs.net/entries/microsoft/built-in/mpsvc.html
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
+https://github.com/clearvector/lambda-spy
+https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-audit-activities#core-directory
+https://github.com/CICADA8-Research/RemoteKrbRelay
+https://tria.ge/240731-jh4crsycnb/behavioral2
